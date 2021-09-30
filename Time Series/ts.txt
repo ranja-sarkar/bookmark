@@ -1,0 +1,11 @@
+
+https://towardsdatascience.com/developing-a-timeseries-heatmap-in-python-using-plotly-fcf1d69575a3
+
+https://towardsdatascience.com/create-synthetic-time-series-with-anomaly-signatures-in-python-c0b80a6c093c
+
+https://www.kaggle.com/kashnitsky/topic-9-part-1-time-series-analysis-in-python
+
+https://www.datacamp.com/community/tutorials/moving-averages-in-pandas
+
+https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks
+
