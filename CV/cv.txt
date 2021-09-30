@@ -1,0 +1,10 @@
+
+
+https://scipy-lectures.org/advanced/image_processing/
+
+https://github.com/brohrer/cottonwood_martian_images/tree/master
+
+https://simply-python.com/2018/11/15/convert-pdf-pages-to-jpeg-with-python/
+
+https://www.pyimagesearch.com/2018/08/20/opencv-text-detection-east-text-detector/
+
