@@ -1,0 +1,10 @@
+
+https://ruder.io/optimizing-gradient-descent/
+
+https://towardsdatascience.com/bayesian-strategy-for-modeling-retail-price-with-pystan-fd0571ed778
+
+https://machinelearningmastery.com/monte-carlo-sampling-for-probability/
+
+https://www.kdnuggets.com/2019/11/math-behind-bayes.html
+
+
