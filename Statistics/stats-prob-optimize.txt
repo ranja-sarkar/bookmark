@@ -16,3 +16,6 @@ https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h1.htm
 https://github.com/raphaelvallat/pingouin
 
 
+https://github.com/Smeths/Markov_Chains/blob/master/Markov%20Notes.ipynb
+https://towardsdatascience.com/the-new-kid-on-the-statistics-in-python-block-pingouin-6b353a1db57c
+
