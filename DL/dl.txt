@@ -3,3 +3,6 @@
 https://machinelearningmastery.com/cost-sensitive-neural-network-for-imbalanced-classification/
 
 https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/
+
+https://dzone.com/articles/a-friendly-introduction-to-graph-neural-networks
+
