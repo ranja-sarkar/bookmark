@@ -1,0 +1,5 @@
+
+
+https://machinelearningmastery.com/cost-sensitive-neural-network-for-imbalanced-classification/
+
+https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/

@@ -7,4 +7,12 @@ https://machinelearningmastery.com/monte-carlo-sampling-for-probability/
 
 https://www.kdnuggets.com/2019/11/math-behind-bayes.html
 
+https://www.kdnuggets.com/2021/09/important-statistics-data-scientists.html
+
+https://machinelearningmastery.com/how-to-calculate-nonparametric-rank-correlation-in-python/
+
+https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h1.htm
+
+https://github.com/raphaelvallat/pingouin
+
 
