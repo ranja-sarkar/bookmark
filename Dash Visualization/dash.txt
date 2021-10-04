@@ -1,1 +1,5 @@
 
+https://github.com/ucg8j/awesome-dash
+
+https://towardsdatascience.com/deploy-a-machine-learning-model-using-flask-da580f84e60c
+
