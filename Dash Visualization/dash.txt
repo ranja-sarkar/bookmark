@@ -6,5 +6,7 @@ https://towardsdatascience.com/deploy-a-machine-learning-model-using-flask-da580
 https://dash.plotly.com/deployment
 https://dash.plotly.com/integrating-dash
 
+https://docs.faculty.ai/user-guide/apps/plotly_dash.html
+
 
 
