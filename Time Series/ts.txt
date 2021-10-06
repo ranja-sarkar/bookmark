@@ -9,3 +9,5 @@ https://www.datacamp.com/community/tutorials/moving-averages-in-pandas
 
 https://www.altumintelligence.com/articles/a/Time-Series-Prediction-Using-LSTM-Deep-Neural-Networks
 
+https://datascienceplus.com/time-series-analysis-building-a-model-on-non-stationary-time-series/
+
