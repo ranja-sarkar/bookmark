@@ -9,3 +9,5 @@ https://github.com/slundberg/shap
 
 https://www.kdnuggets.com/2021/04/shapash-machine-learning-models-understandable.html
 
+https://shap.readthedocs.io/en/latest/
+
