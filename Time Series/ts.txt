@@ -15,3 +15,5 @@ https://github.com/salesforce/Merlion
 
 https://github.com/awslabs/gluon-ts
 
+https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK
+
