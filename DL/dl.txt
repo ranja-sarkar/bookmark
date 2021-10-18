@@ -6,3 +6,5 @@ https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-p
 
 https://dzone.com/articles/a-friendly-introduction-to-graph-neural-networks
 
+https://www.youtube.com/watch?v=3jmcHZq3A5s
+
