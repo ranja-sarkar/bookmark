@@ -51,5 +51,5 @@ https://medium.com/@nihitextra/word-movers-distance-for-text-similarity-7492aeca
 
 https://www.youtube.com/playlist?list=PL3N9eeOlCrP6zMkHMxFJV4yXIsET5aWlc
 
-
+https://github.com/Belval/pdf2image
 
