@@ -21,3 +21,5 @@ https://towardsdatascience.com/the-new-kid-on-the-statistics-in-python-block-pin
 
 https://towardsdatascience.com/monte-carlo-integration-in-python-over-univariate-and-multivariate-functions-12615dd252fa
 
+https://towardsdatascience.com/the-five-discrete-distributions-every-statistician-should-know-131400f77782
+
