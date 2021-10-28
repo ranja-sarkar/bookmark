@@ -10,3 +10,5 @@ https://github.com/oegedijk/explainerdashboard
 
 https://github.com/tslearn-team/tslearn
 
+https://machinelearningmastery.com/implement-random-forest-scratch-python/
+
