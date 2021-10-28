@@ -23,3 +23,5 @@ https://towardsdatascience.com/monte-carlo-integration-in-python-over-univariate
 
 https://towardsdatascience.com/the-five-discrete-distributions-every-statistician-should-know-131400f77782
 
+https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/
+
