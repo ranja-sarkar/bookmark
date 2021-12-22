@@ -25,3 +25,5 @@ https://towardsdatascience.com/the-five-discrete-distributions-every-statisticia
 
 https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/
 
+https://towardsdatascience.com/stochastic-processes-analysis-f0a116999e4
+
