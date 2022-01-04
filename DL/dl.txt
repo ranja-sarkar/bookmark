@@ -8,3 +8,5 @@ https://dzone.com/articles/a-friendly-introduction-to-graph-neural-networks
 
 https://www.youtube.com/watch?v=3jmcHZq3A5s
 
+https://www.geeksforgeeks.org/implementation-of-neural-network-from-scratch-using-numpy/
+
