@@ -3,3 +3,7 @@ https://developers.google.com/machine-learning/glossary/
 
 https://paperswithcode.com/datasets
 
+https://www.codecademy.com/article/what-is-rdbms-sql
+
+
+
