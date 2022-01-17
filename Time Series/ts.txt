@@ -19,3 +19,6 @@ https://www.youtube.com/playlist?list=PL3N9eeOlCrP5cK0QRQxeJd6GrQvhAtpBK
 
 https://nbviewer.org/github/leandrovrabelo/tsmodels/blob/master/notebooks/english/Basic%20Principles%20for%20Time%20Series%20Forecasting.ipynb
 
+#jupyter notebooks in excel
+https://www.pyxll.com/docs/videos/pyxll-jupyter.html
+
