@@ -33,6 +33,9 @@ https://cran.r-project.org/web/packages/tidytext/vignettes/tf_idf.html
 
 https://www.machinelearningplus.com/nlp/cosine-similarity/
 
+https://github.com/jina-ai/docarray
+
+
 https://www.tutorialspoint.com/gensim/gensim_creating_lsi_and_hdp_topic_model.htm
 
 https://www.datacamp.com/community/tutorials/discovering-hidden-topics-python
