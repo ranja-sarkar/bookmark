@@ -12,3 +12,7 @@ https://www.kdnuggets.com/2021/04/shapash-machine-learning-models-understandable
 https://shap.readthedocs.io/en/latest/
 
 https://github.com/benedekrozemberczki/shapley
+
+https://www.h2o.ai/blog/shapley-values-a-gentle-introduction/
+
+
