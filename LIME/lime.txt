@@ -15,4 +15,7 @@ https://github.com/benedekrozemberczki/shapley
 
 https://www.h2o.ai/blog/shapley-values-a-gentle-introduction/
 
+https://github.com/chaitanyakasaraneni/SHAP_EBM_Examples/blob/main/InterpretML_Example.ipynb
+https://github.com/chaitanyakasaraneni/SHAP_EBM_Examples/blob/main/SHAP%20Example.ipynb
+
 
