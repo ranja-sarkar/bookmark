@@ -12,4 +12,8 @@ https://docs.faculty.ai/user-guide/apps/examples/dash_file_upload_download.html
 
 https://dash.plotly.com/external-resources
 
+https://dash-gallery.plotly.host/dash-word-arithmetic/
+
+
+
 
