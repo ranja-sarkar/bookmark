@@ -7,6 +7,8 @@ Miniconda:
 https://docs.conda.io/en/latest/miniconda.html
 
 
+https://towardsdatascience.com/how-to-set-up-python3-the-right-easy-way-11c18b0b4ac0
+
 
 ![image](https://user-images.githubusercontent.com/73946741/147046411-27887cce-7c80-4776-bffc-e624b9aac10a.png)
 
