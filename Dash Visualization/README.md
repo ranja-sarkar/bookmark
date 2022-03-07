@@ -14,6 +14,8 @@ https://dash.plotly.com/external-resources
 
 https://dash-gallery.plotly.host/dash-word-arithmetic/
 
+https://icons.getbootstrap.com/
+https://icons.getbootstrap.com/icons/info-circle/
 
 
 
