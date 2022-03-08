@@ -12,3 +12,5 @@ https://www.geeksforgeeks.org/implementation-of-neural-network-from-scratch-usin
 
 https://github.com/fchollet/deep-learning-with-python-notebooks
 
+https://github.com/TencentARC/GFPGAN
+
