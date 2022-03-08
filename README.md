@@ -14,6 +14,7 @@ https://towardsdatascience.com/how-to-set-up-python3-the-right-easy-way-11c18b0b
 
 ![image](https://user-images.githubusercontent.com/73946741/148980087-401f9f7b-eb1f-439c-b3a0-71f093134ee3.png)
 
+![image](https://user-images.githubusercontent.com/73946741/157181182-6883c4fe-eff5-4d57-aa52-47c20be5b745.png)
 
 Analyze your repo, eliminate bugs and vulnerabilities:
 https://sonarcloud.io/
