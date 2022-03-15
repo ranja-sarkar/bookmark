@@ -6,6 +6,8 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
 Miniconda:
 https://docs.conda.io/en/latest/miniconda.html
 
+https://github.com/readme/guides/code-as-documentation
+
 
 https://towardsdatascience.com/how-to-set-up-python3-the-right-easy-way-11c18b0b4ac0
 
