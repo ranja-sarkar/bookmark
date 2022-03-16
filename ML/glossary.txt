@@ -7,4 +7,5 @@ https://www.codecademy.com/article/what-is-rdbms-sql
 
 https://github.com/angelaaaateng/Projects/blob/master/Covertype_Prediction/Scripts/Tree-Based%20and%20Bagging%20Methods.ipynb
 
+https://studio.azureml.net/
 
