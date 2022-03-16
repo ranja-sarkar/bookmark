@@ -8,7 +8,7 @@ git config --global http.proxy http://proxy-ap.shell.com:8080 (with GlobalProtec
 
 git add *.pdf
 git commit -m "message"
-git push origin <main> or <feature-branch>
+git push origin main or feature-branch
 
 
 ![image](https://user-images.githubusercontent.com/73946741/156766350-ca628785-8538-47f0-97bf-05c9f6066ef9.png)
