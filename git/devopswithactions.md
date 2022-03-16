@@ -21,3 +21,13 @@ Azure pipeline:
 
 
 ![image](https://user-images.githubusercontent.com/73946741/156766235-ca2f42da-5d56-4239-bd06-c8a78ee486cc.png)
+
+https://pages.github.com/
+https://gist.github.com/
+
+https://docs.github.com/en/actions
+
+https://gitforwindows.org/
+
+https://git-lfs.github.com/
+
