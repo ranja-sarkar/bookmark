@@ -42,3 +42,7 @@ https://gitforwindows.org/
 
 https://git-lfs.github.com/
 
+https://gist.github.com/blackfalcon/8428401
+
+https://docs.microsoft.com/en-us/azure/devops/repos/git/limits?view=azure-devops
+
