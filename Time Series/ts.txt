@@ -25,3 +25,6 @@ https://www.pyxll.com/docs/videos/pyxll-jupyter.html
 https://machinelearningmastery.com/persistence-time-series-forecasting-with-python/
 
 https://machinelearningmastery.com/model-based-outlier-detection-and-removal-in-python/
+
+https://www.machinelearningplus.com/time-series/arima-model-time-series-forecasting-python/
+
