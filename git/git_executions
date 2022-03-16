@@ -1,0 +1,36 @@
+
+REBASE:
+git checkout <feature>
+git rebase <main>
+
+Get the changes in remote repo to local:
+git fetch
+Switch feature branch in remote:
+git -checkout -b origin/<new_branch>
+
+git remote show origin
+git clone -b <branch> <remoterepoaddress>
+
+Local branch
+git ls-files
+git status
+git branch
+
+Remote branch
+git branch -r
+
+
+#set repository as origin
+git remote add origin *remote repository URL*
+
+# Confirm the origin.
+git remote -v
+
+# Show the current remotes
+git remote -v
+
+origin  https://github.com/OWNER/REPOSITORY.git (fetch)
+origin  https://github.com/OWNER/REPOSITORY.git (push)
+
+# Remove them by
+git remote rm origin
