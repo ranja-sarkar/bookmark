@@ -34,3 +34,11 @@ https://www.kdnuggets.com/2020/01/predict-electricity-consumption-time-series-an
 
 https://towardsdatascience.com/vector-autoregressions-vector-error-correction-multivariate-model-a69daf6ab618
 https://www.analyticsvidhya.com/blog/2018/09/multivariate-time-series-guide-forecasting-modeling-python-codes/#:~:text=A%20Multivariate%20time%20series%20has,used%20for%20forecasting%20future%20values.&text=In%20this%20case%2C%20there%20are,considered%20to%20optimally%20predict%20temperature.
+
+https://otexts.com/fpp2/stationarity.html
+
+https://github.com/Pierian-Data/AutoArima-Time-Series-Blog/blob/master/Forecasting%20a%20Time%20Series%20in%20Python.ipynb
+
+https://dzone.com/articles/autocorrelation-in-time-series-data
+
+
