@@ -22,4 +22,6 @@ https://towardsdatascience.com/how-to-set-up-python3-the-right-easy-way-11c18b0b
 Analyze your repo, eliminate bugs and vulnerabilities:
 https://sonarcloud.io/
 
+https://reliability.readthedocs.io/en/latest/Quickstart%20for%20reliability.html
+
 
