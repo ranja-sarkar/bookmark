@@ -20,5 +20,11 @@ https://icons.getbootstrap.com/icons/info-circle/
 https://github.com/holoviz/panel
 
 
+https://dash.plotly.com/dash-enterprise/ssh
+
+https://dash.plotly.com/dash-enterprise/map-local-directories
+
+
+
 
 
