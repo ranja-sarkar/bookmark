@@ -9,14 +9,11 @@ https://www.kdnuggets.com/2019/11/math-behind-bayes.html
 
 https://www.kdnuggets.com/2021/09/important-statistics-data-scientists.html
 
-https://machinelearningmastery.com/how-to-calculate-nonparametric-rank-correlation-in-python/
-
 https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h1.htm
 https://www.itl.nist.gov/div898/handbook/eda/section3/eda357.htm
 https://en.wikipedia.org/wiki/Dixon%27s_Q_test
 
 https://github.com/raphaelvallat/pingouin
-
 
 https://github.com/Smeths/Markov_Chains/blob/master/Markov%20Notes.ipynb
 https://towardsdatascience.com/the-new-kid-on-the-statistics-in-python-block-pingouin-6b353a1db57c
@@ -29,3 +26,6 @@ https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/
 
 https://towardsdatascience.com/stochastic-processes-analysis-f0a116999e4
 
+https://towardsdatascience.com/a-gentle-introduction-to-monte-carlo-methods-98451674018d
+
+https://scikit-learn.org/
