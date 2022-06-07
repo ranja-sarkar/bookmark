@@ -1,5 +1,6 @@
 Some important links:
-  https://ruder.io/optimizing-gradient-descent/
+https://ruder.io/optimizing-gradient-descent/
+  
 	https://www.kdnuggets.com/2019/11/math-behind-bayes.html
 	https://github.com/raphaelvallat/pingouin
 	https://github.com/Smeths/Markov_Chains/blob/master/Markov%20Notes.ipynb
@@ -26,5 +27,11 @@ DISCRETE PROBABILITY DISTRIBUTIONS
 
 
 CONTINUOUS PROBABILITY DISTRIBUTIONS
+
+1) Uniform distribution (outcomes equally likely)
+
+2) Normal/Gaussian distribution: The mean, median, and mode of the distribution coincide. The curve of the distribution is bell-shaped and symmetrical about the line x = μ. The total area under the curve is 1. Exactly half of the values are to the left of the center and the other half to the right.
+![image](https://user-images.githubusercontent.com/101544669/172358474-b1997aed-d0e4-482a-a09b-2355dfb693c2.png)
+
 
 
