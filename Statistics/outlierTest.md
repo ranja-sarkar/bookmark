@@ -1,5 +1,5 @@
 
-Q Test: Idenfication and rejection of outliers
+Q Test: Identification and rejection of outliers
 https://en.wikipedia.org/wiki/Dixon%27s_Q_test
 
 Grubbs Test: Detection of outlier in univariate data
