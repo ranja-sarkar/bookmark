@@ -41,6 +41,10 @@ MEASURES OF DISPERSION: Range, quartile deviation, interquartile range [quartile
 			
 ![image](https://user-images.githubusercontent.com/101544669/172353525-d1b2bcf0-ff6c-42bc-99e6-db6c3edb1e2f.png)
 
+![image](https://user-images.githubusercontent.com/101544669/172354301-b62ea3b6-bc64-4f8f-bc65-58cb7b5d5f90.png)
+
+![image](https://user-images.githubusercontent.com/101544669/172354401-9403bc08-05e5-4316-9174-39aaf0ef1eab.png)
+
 
 
 
