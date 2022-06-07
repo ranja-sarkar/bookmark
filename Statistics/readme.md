@@ -1,3 +1,5 @@
+DESCRIPTIVE STATISTICS: Inference of the smaller sample data
+INFERENTIAL STATISTICS: Inference about the larger population
 ![compare data](https://user-images.githubusercontent.com/101544669/172348686-3f5f25a9-f015-4155-8f0e-9bdf2c7fd77b.png)
 
 
