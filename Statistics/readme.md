@@ -1,5 +1,6 @@
-DESCRIPTIVE STATISTICS: Inference of the smaller sample data
+DESCRIPTIVE STATISTICS: Inference of the smaller sample data;
 INFERENTIAL STATISTICS: Inference about the larger population
+
 ![compare data](https://user-images.githubusercontent.com/101544669/172348686-3f5f25a9-f015-4155-8f0e-9bdf2c7fd77b.png)
 
 
@@ -24,3 +25,5 @@ INFERENTIAL STATISTICS: Inference about the larger population
 	https://towardsdatascience.com/a-gentle-introduction-to-monte-carlo-methods-98451674018d
 	
 	https://scikit-learn.org/
+	
+![data](https://user-images.githubusercontent.com/101544669/172350887-e9527614-3737-4ad0-99af-868333c2f6aa.png)
