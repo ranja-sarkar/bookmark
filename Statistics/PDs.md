@@ -17,8 +17,8 @@ https://ruder.io/optimizing-gradient-descent/
 
 DISCRETE PROBABILITY DISTRIBUTIONS
 
-1) Bernoulli distribution (single trial)
 ![image](https://user-images.githubusercontent.com/101544669/172357459-389a7839-7983-4ee8-96a5-bebe7e50f1d0.png)
+1) Bernoulli distribution (single trial)
 
 2) Binomial distribution (n identical trials)
 ![image](https://user-images.githubusercontent.com/101544669/172357617-c12a8dd8-f094-4220-a1af-7cccb4aca46e.png)
@@ -31,7 +31,11 @@ CONTINUOUS PROBABILITY DISTRIBUTIONS
 1) Uniform distribution (outcomes equally likely)
 
 2) Normal/Gaussian distribution: The mean, median, and mode of the distribution coincide. The curve of the distribution is bell-shaped and symmetrical about the line x = μ. The total area under the curve is 1. Exactly half of the values are to the left of the center and the other half to the right.
+
 ![image](https://user-images.githubusercontent.com/101544669/172358474-b1997aed-d0e4-482a-a09b-2355dfb693c2.png)
+
+3) Exponential distribution
+![image](https://user-images.githubusercontent.com/101544669/172358950-ace7b1f7-c268-4e15-a9fc-3580c8742509.png)
 
 
 
