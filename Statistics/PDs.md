@@ -24,6 +24,7 @@ DISCRETE PROBABILITY DISTRIBUTIONS
 ![image](https://user-images.githubusercontent.com/101544669/172357617-c12a8dd8-f094-4220-a1af-7cccb4aca46e.png)
 
 3) Poisson distribution
+![image](https://user-images.githubusercontent.com/101544669/172360980-974ef2cf-8d1d-4ac7-bf06-e587e4cc82a0.png)
 
 
 CONTINUOUS PROBABILITY DISTRIBUTIONS
@@ -42,6 +43,18 @@ CONTINUOUS PROBABILITY DISTRIBUTIONS
 HYPOTHESIS TESTING
 
 ![image](https://user-images.githubusercontent.com/101544669/172359408-6bd474f0-1906-43e1-bf15-5197aa05771b.png)
+
+LINEAR REGRESSION
+
+![image](https://user-images.githubusercontent.com/101544669/172360437-79410e56-8280-4cef-a715-86d4f12c7449.png)
+
+![image](https://user-images.githubusercontent.com/101544669/172360515-38ee090f-1a75-44f8-aad8-cd12286776c1.png)
+
+MULTIPLE LINEAR REGRESSION
+
+![image](https://user-images.githubusercontent.com/101544669/172360599-7f660c2b-3818-4051-b763-a743316add2b.png)
+
+
 
 
 
