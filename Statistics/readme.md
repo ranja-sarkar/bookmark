@@ -39,7 +39,8 @@ MEASURES OF CENTRAL TENDENCY
 MEASURES OF DISPERSION: Range, quartile deviation, interquartile range [quartile deviation is half of the interquartile range]
 			Variance, standard deviation
 			
-			![image](https://user-images.githubusercontent.com/101544669/172353306-d5fe783a-068f-4dd0-a9ce-511991206916.png)
+![image](https://user-images.githubusercontent.com/101544669/172353525-d1b2bcf0-ff6c-42bc-99e6-db6c3edb1e2f.png)
+
 
 
 
