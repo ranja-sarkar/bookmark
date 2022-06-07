@@ -16,4 +16,5 @@ def res_matrix(file):
 
     return print( mat)
 
-res_matrix('test.csv')
+res_matrix('test.csv') #3-column dataframe, not necessarily square
+
