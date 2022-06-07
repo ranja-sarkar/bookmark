@@ -9,8 +9,6 @@
 	
 	https://www.kdnuggets.com/2019/11/math-behind-bayes.html
 	
-	https://www.kdnuggets.com/2021/09/important-statistics-data-scientists.html
-	
 	https://www.itl.nist.gov/div898/handbook/eda/section3/eda35h1.htm
 	https://www.itl.nist.gov/div898/handbook/eda/section3/eda357.htm
 	https://en.wikipedia.org/wiki/Dixon%27s_Q_test
