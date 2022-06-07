@@ -4,9 +4,11 @@ INFERENTIAL STATISTICS: Inference about the larger population
 ![compare data](https://user-images.githubusercontent.com/101544669/172348686-3f5f25a9-f015-4155-8f0e-9bdf2c7fd77b.png)
 
 Parametric tests:
+![image](https://user-images.githubusercontent.com/101544669/172365078-9c820e5f-6a23-4d56-acc3-2ee9df161792.png)
 
 
 Non-parametric tests:
+![image](https://user-images.githubusercontent.com/101544669/172365175-8491678c-50f7-452b-897c-eecbb7111739.png)
 
 	
 MEASURES OF CENTRAL TENDENCY
