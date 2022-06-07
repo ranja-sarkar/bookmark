@@ -27,3 +27,7 @@ INFERENTIAL STATISTICS: Inference about the larger population
 	https://scikit-learn.org/
 	
 ![data](https://user-images.githubusercontent.com/101544669/172350887-e9527614-3737-4ad0-99af-868333c2f6aa.png)
+
+MEASURES OF CENTRAL TENDENCY
+![image](https://user-images.githubusercontent.com/101544669/172351517-74e016c6-709e-47b4-bf01-299afad8e25f.png)
+
