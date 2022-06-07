@@ -35,7 +35,7 @@ CONTINUOUS PROBABILITY DISTRIBUTIONS
 ![image](https://user-images.githubusercontent.com/101544669/172358474-b1997aed-d0e4-482a-a09b-2355dfb693c2.png)
 
 
-3) Exponential distribution
+3) Exponential distribution (continuous and independent events in a time interval)
 ![image](https://user-images.githubusercontent.com/101544669/172358950-ace7b1f7-c268-4e15-a9fc-3580c8742509.png)
 
 
