@@ -23,8 +23,7 @@ DISCRETE PROBABILITY DISTRIBUTIONS
 2) Binomial distribution (n identical trials)
 ![image](https://user-images.githubusercontent.com/101544669/172357617-c12a8dd8-f094-4220-a1af-7cccb4aca46e.png)
 
-3) Poisson distribution
-![image](https://user-images.githubusercontent.com/101544669/172360980-974ef2cf-8d1d-4ac7-bf06-e587e4cc82a0.png)
+3) Poisson distribution (large number of rare events)
 
 
 CONTINUOUS PROBABILITY DISTRIBUTIONS
