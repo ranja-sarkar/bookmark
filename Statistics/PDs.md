@@ -34,8 +34,15 @@ CONTINUOUS PROBABILITY DISTRIBUTIONS
 
 ![image](https://user-images.githubusercontent.com/101544669/172358474-b1997aed-d0e4-482a-a09b-2355dfb693c2.png)
 
+
 3) Exponential distribution
 ![image](https://user-images.githubusercontent.com/101544669/172358950-ace7b1f7-c268-4e15-a9fc-3580c8742509.png)
+
+
+HYPOTHESIS TESTING
+
+![image](https://user-images.githubusercontent.com/101544669/172359408-6bd474f0-1906-43e1-bf15-5197aa05771b.png)
+
 
 
 
