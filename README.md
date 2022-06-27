@@ -1,5 +1,7 @@
 # bookmark
 
+This is a repository of resources.
+
 Conda:
 https://docs.conda.io/projects/conda/en/latest/user-guide/getting-started.html
 
