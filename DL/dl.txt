@@ -1,16 +1,9 @@
 
 
 https://machinelearningmastery.com/cost-sensitive-neural-network-for-imbalanced-classification/
-
-https://machinelearningmastery.com/implement-backpropagation-algorithm-scratch-python/
-
 https://dzone.com/articles/a-friendly-introduction-to-graph-neural-networks
-
 https://www.youtube.com/watch?v=3jmcHZq3A5s
-
 https://www.geeksforgeeks.org/implementation-of-neural-network-from-scratch-using-numpy/
-
 https://github.com/fchollet/deep-learning-with-python-notebooks
-
 https://github.com/TencentARC/GFPGAN
 
