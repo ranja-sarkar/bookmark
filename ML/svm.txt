@@ -1,5 +1,3 @@
 
-https://machinelearningmastery.com/one-class-classification-algorithms/
 
-http://rvlasveld.github.io/blog/2013/07/12/introduction-to-one-class-support-vector-machines/
 
