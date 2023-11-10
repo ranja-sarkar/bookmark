@@ -1,0 +1,17 @@
+Datasets,Usability ,Votes
+Insurance,5.9,22
+Content_classification,5.9,3
+SalesQuantity,5.9,2
+Sentiment Analysis,5.3,2
+MovieRatingsByUsers,5.3,5
+Classification_trainset,5.3,1
+CustomerData,4.1,1
+Power factor time-series,4.1,1
+BankLoan,4.1,5
+RetailData,3.5,1
+CustomerSegmentation,3.5,1
+Banking,3.5,2
+CustomerLoyaltyTier_trainset,2.9,1
+SuperstoreSales,2.4,1
+GeospatialData,1.8,1
+CompanyData,1.8,1
