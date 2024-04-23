@@ -1,21 +1,10 @@
 
-https://towardsdatascience.com/understanding-model-predictions-with-lime-a582fdff3a3b
 
-https://towardsdatascience.com/decrypting-your-machine-learning-model-using-lime-5adc035109b5
 
-https://www.analyticsvidhya.com/blog/2017/06/building-trust-in-machine-learning-models/?utm_source=blog&utm_medium=shapley-value-machine-learning-interpretability-game-theory
 
-https://github.com/slundberg/shap
 
-https://www.kdnuggets.com/2021/04/shapash-machine-learning-models-understandable.html
 
-https://shap.readthedocs.io/en/latest/
 
-https://github.com/benedekrozemberczki/shapley
 
-https://www.h2o.ai/blog/shapley-values-a-gentle-introduction/
-
-https://github.com/chaitanyakasaraneni/SHAP_EBM_Examples/blob/main/InterpretML_Example.ipynb
-https://github.com/chaitanyakasaraneni/SHAP_EBM_Examples/blob/main/SHAP%20Example.ipynb
 
 
