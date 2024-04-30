@@ -21,17 +21,14 @@ https://towardsdatascience.com/how-to-set-up-python3-the-right-easy-way-11c18b0b
 
 ![image](https://user-images.githubusercontent.com/73946741/148980087-401f9f7b-eb1f-439c-b3a0-71f093134ee3.png)
 
-**Recommended for MLOps component tasks**
-<img width="269" alt="0" src="https://github.com/ranja-sarkar/bookmark/assets/101544669/8a8402c9-1cd2-4804-8bb7-8983d8c24eeb">
-
-
 Analyze your repo, eliminate bugs and vulnerabilities:
 https://sonarcloud.io/
 
-Scientific python (#scipy) lecture notes:-
+**Scientific python (#scipy) lecture notes** :-
 Getting started: https://scipy-lectures.org/intro
+
 Advanced topics: https://scipy-lectures.org/advanced
 
-https://reliability.readthedocs.io/en/latest/Quickstart%20for%20reliability.html
+Reliability Engineering: https://reliability.readthedocs.io/en/latest/Quickstart%20for%20reliability.html
 
 
