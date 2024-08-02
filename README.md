@@ -12,8 +12,6 @@ https://github.com/readme/guides/code-as-documentation
 
 https://nbviewer.org/
 
-https://towardsdatascience.com/how-to-set-up-python3-the-right-easy-way-11c18b0b4ac0
-
 
 Analyze your repo, eliminate bugs and vulnerabilities:
 https://sonarcloud.io/
