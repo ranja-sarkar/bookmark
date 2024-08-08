@@ -1,31 +1,16 @@
 
-https://developers.google.com/machine-learning/glossary/
-
-https://paperswithcode.com/datasets
-
-https://www.codecademy.com/article/what-is-rdbms-sql
-
-https://github.com/angelaaaateng/Projects/blob/master/Covertype_Prediction/Scripts/Tree-Based%20and%20Bagging%20Methods.ipynb
-
-https://studio.azureml.net/
-
-https://mlinproduction.com/
 
 
-Towards Data Science:
 
-https://medium.com/productive-data-science/out-of-core-larger-than-ram-machine-learning-with-dask-9d2e5f29d733
-https://towardsdatascience.com/the-nice-way-to-deploy-an-ml-model-using-docker-91995f072fe8
-https://towardsdatascience.com/good-approach-to-evaluate-your-machine-learning-model-e2e1fd6aa6bb
-https://towardsdatascience.com/dealing-with-multiclass-data-78a1a27c5dcc
-https://towardsdatascience.com/explain-your-model-with-the-shap-values-bc36aac4de3d
-https://towardsdatascience.com/benchmarking-python-nlp-tokenizers-3ac4735100c5
-https://towardsdatascience.com/lexnlp-library-for-automated-text-extraction-ner-with-bafd0014a3f8
-https://medium.com/@shivangisareen/text-summarisation-with-gensim-textrank-46bbb3401289
-https://netflixtechblog.com/open-sourcing-metaflow-a-human-centric-framework-for-data-science-fa72e04a5d9
-https://towardsdatascience.com/machine-learning-with-docker-and-kubernetes-training-models-cbe33a08c999
-https://towardsdatascience.com/flask-app-for-data-science-cf5651c8a859
-https://towardsdatascience.com/auto-generated-knowledge-graphs-92ca99a81121
-https://medium.com/data-for-everyone/dagster-the-best-free-and-open-source-alternative-to-airflow-with-python-53d9ccd0c6f2
+
+
+
+
+
+
+
+
+
+
 
 
